@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 tecnoloy23
+=======
+ tecnology
+>>>>>>> main-section
